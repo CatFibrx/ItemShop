@@ -1,12 +1,11 @@
-CID_703_Athena_Commando_M_Cyclone, 0
-CID_530_Athena_Commando_F_BlackMonday_1BV6J, 2000
-EID_IndigoApple, 1200
+CID_751_Athena_Commando_F_NeonCatSpy, 1500
+CID_653_Athena_Commando_F_UglySweaterFrozen, 2000
+CID_648_Athena_Commando_F_MsAlpine, 1200
 na
 na
 na
-Glider_ID_029_PajamaParty, 800
-Wrap_230_Glacier, 300
-Pickaxe_ID_169_Farmer, 0
-EID_BillyBounce, 800
-Pickaxe_ID_215_Pug, 800
-CID_616_Athena_Commando_F_CavalryBandit, 1200
+CID_431_Athena_Commando_F_StormPilot, 800
+Glider_ID_104_Math, 0
+Pickaxe_ID_111_BlackWidow, 800
+Pickaxe_ID_014_WinterCamo, 500
+Wrap_127_FragmentedGlow, 1200
