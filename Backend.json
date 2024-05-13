@@ -1,39 +1,35 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaGlider:Glider_ID_029_PajamaParty"],
-    "price": 800
+    "itemGrants": ["AthenaGlider:Glider_ID_104_Math"],
+    "price": 0
   },
   "daily2": {
-    "itemGrants": ["AthenaItemWrap:Wrap_230_Glacier"],
-    "price": 300
+    "itemGrants": ["Wrap_127_FragmentedGlow"],
+    "price": 1000
   },
   "daily3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_169_Farmer"],
-    "price": 0
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_111_BlackWidow"],
+    "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_215_Pug"],
-    "price": 800
-  },
-  "daily5": {
-    "itemGrants": ["AthenaDance:EID_BillyBounce"],
-    "price": 800
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_014_WinterCamo"],
+    "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_616_Athena_Commando_F_CavalryBandit"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_431_Athena_Commando_F_StormPilot"],
+    "price": 800
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone"],
-    "price": 0
+    "itemGrants": ["AthenaCharacter:CID_751_Athena_Commando_F_NeonCatSpy"],
+    "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaDance:EID_IndigoApple"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_653_Athena_Commando_F_UglySweaterFrozen"],
+    "price": 2000
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J"],
-    "price": 2000
+    "itemGrants": ["AthenaCharacter:CID_648_Athena_Commando_F_MsAlpine"],
+    "price": 1200
   }
 }
