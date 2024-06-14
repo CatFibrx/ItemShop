@@ -1,12 +1,12 @@
-CID_135_Athena_Commando_F_Jailbird, 1500
-CID_349_Athena_Commando_M_Banana, 2500
-EID_Banana, 500
+CID_043_Athena_Commando_F_Stealth, 1800
+CID_092_Athena_Commando_F_RedShirt, 1500
+CID_260_Athena_Commando_F_StreetOps, 1500
 na
 na
 na
-CID_472_Athena_Commando_F_CyberKarate, 1200
-CID_699_Athena_Commando_F_BrokenHeart, 800
-Pickaxe_ID_328_GalileoRocket_SNC0L, 800
-EID_CandyDance, 500
-EID_LlamaBell, 700
-Glider_ID_009_CandyCoat, 500
+CID_110_Athena_Commando_F_CircuitBreaker, 1200
+Wrap_077_StormSoldier, 800
+CID_263_Athena_Commando_F_MadCommander, 1200
+Glider_ID_091_MadCommander, 800
+EID_ElectroShuffle_V2, 700
+CID_073_Athena_Commando_F_Scuba, 1200
