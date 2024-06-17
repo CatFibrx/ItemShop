@@ -1,57 +1,39 @@
 {
-    "//": "BR Item Shop Config",
-    "daily1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_044_Athena_Commando_F_SciPop"
-        ],
-        "price": 1200
-    },
-    "daily2": {
-        "itemGrants": [
-            "AthenaPickaxe:Pickaxe_Flamingo"
-        ],
-        "price": 800
-    },
-    "daily3": {
-        "itemGrants": [
-            "AthenaDance:EID_CrabDance"
-        ],
-        "price": 500
-    },
-    "daily4": {
-        "itemGrants": [
-            "AthenaDance:EID_RockPaperScissors"
-        ],
-        "price": 200
-    },
-    "daily5": {
-        "itemGrants": [
-            "AthenaItemWrap:Wrap_016_CuddleTeam"
-        ],
-        "price": 300
-    },
-    "daily6": {
-        "itemGrants": [
-            "AthenaBackpack:BID_026_Brite"
-        ],
-        "price": 600
-    },
-    "featured1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread", "AthenaBackpack:BID_187_GingerbreadFemale"
-        ],
-        "price": 1500
-    },
-    "featured2": {
-        "itemGrants": [
-            "AthenaCharacter:CID_049_Athena_Commando_M_HolidayGingerbread", "AthenaBackpack:PetCarrier_006_Gingerbread"
-        ],
-        "price": 1500
-    },
-    "featured3": {
-        "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_329_GingerbreadCookie1H"
-        ],
-        "price": 0
-    }
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": ["Wrap_078_SlurpJuice"],
+    "price": 800
+  },
+  "daily2": {
+    "itemGrants": ["AthenaCharacter:CID_532_Athena_Commando_F_Punchy"],
+    "price": 1200
+  },
+  "daily3": {
+    "itemGrants": ["AthenaCharacter:CID_123_Athena_Commando_F_Metal"],
+    "price": 1200
+  },
+  "daily4": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_049_Metal"],
+    "price": 800
+  },
+  "daily5": {
+    "itemGrants": ["AthenaCharacter:CID_216_Athena_Commando_F_Medic"],
+    "price": 1500
+  },
+  "daily6": {
+    "itemGrants": ["AthenaGlider:Glider_ID_073_Medic"],
+    "price": 1200
+  },
+  "featured1": {
+    "itemGrants": ["AthenaCharacter:CID_717_Athena_Commando_F_BlueFlames"],
+    "price": 1500
+  },
+  "featured2": {
+    "itemGrants": ["AthenaCharacter:CID_716_Athena_Commando_M_BlueFlames"],
+    "price": 1500
+  },
+  "featured3": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_370_BlueFlames"],
+    "price": 800
+  }
 }
